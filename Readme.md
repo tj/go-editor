@@ -1,6 +1,6 @@
 # Go Editor
 
-Package editor provides a utility to from $EDITOR.
+Package editor provides a utility to read from $EDITOR.
 
 For example:
 
